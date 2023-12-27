@@ -13,7 +13,7 @@ export class ContentComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.router.navigate(['/pages/general-processes/goods-tracker']);
+    this.router.navigate(['/pages/general-processes/restaurant']);
   }
 
 }
